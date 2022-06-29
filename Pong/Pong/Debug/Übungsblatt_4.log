@@ -1,0 +1,4 @@
+﻿  Spieler.c
+C:\Users\arber\source\repos\Übungsblatt_4\Übungsblatt_4\Spieler.c(89,44): warning C4028: Formaler Parameter "1" unterscheidet sich von der Deklaration
+C:\Users\arber\source\repos\Übungsblatt_4\Übungsblatt_4\Spieler.c(55): warning C4715: "spieler_erzeugen": Nicht alle Codepfade geben einen Wert zurück.
+  Übungsblatt_4.vcxproj -> C:\Users\arber\source\repos\Übungsblatt_4\Debug\Übungsblatt_4.exe
